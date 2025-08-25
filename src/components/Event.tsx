@@ -18,7 +18,7 @@ const Event = () => {
       <div className="max-w-7xl mx-auto text-center">
         <h2 className="text-4xl md:text-5xl font-bold text-amber-800 mb-4">Events at Our Ballroom</h2>
         <p className="text-gray-600 mb-12 text-lg max-w-2xl mx-auto">
-          From weddings to corporate events, birthdays to anniversaries — we make every moment unforgettable. Here's a glimpse into the beautiful celebrations hosted in our luxurious ballroom.
+          From weddings to corporate events, birthdays to anniversaries — we make every moment unforgettable. Here,s a glimpse into the beautiful celebrations hosted in our luxurious ballroom.
         </p>
 
         {/* Masonry-style Image Grid */}

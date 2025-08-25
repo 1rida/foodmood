@@ -25,9 +25,9 @@ const Chef = () => {
         </p>
         <p className="text-white mt-4 text-sm sm:text-base drop-shadow-md leading-relaxed">
           Our team of professional chefs combines passion and skill to bring you the most
-          delicious and memorable dishes. Whether it's traditional recipes or modern fusion,
+          delicious and memorable dishes. Whether it,s traditional recipes or modern fusion,
           every chef here is dedicated to perfection in every plate. Fresh ingredients,
-          creative presentation, and unmatched flavor — that's the promise our chefs deliver.
+          creative presentation, and unmatched flavor — that,s the promise our chefs deliver.
         </p>
       </div>
 

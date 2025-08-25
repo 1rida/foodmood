@@ -35,7 +35,7 @@ const Environment = () => {
             Our Restaurant Environment
           </h2>
           <p className="text-center text-gray-200 mb-10 max-w-2xl mx-auto">
-            We believe the ambiance is as important as the food. Here's a glimpse into the cozy and stylish setting where you can enjoy your meal.
+            We believe the ambiance is as important as the food. Here,s a glimpse into the cozy and stylish setting where you can enjoy your meal.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
             {environmentImages.map((img, index) => (

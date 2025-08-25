@@ -55,7 +55,7 @@ const BallroomPage = () => {
           >
             <p>
               Our beautifully designed ballroom is the perfect venue for all your special occasions.
-              Whether you're planning a wedding, birthday, corporate event, or anniversary, our space offers the elegance and ambiance to make your event unforgettable.
+              Whether you,re planning a wedding, birthday, corporate event, or anniversary, our space offers the elegance and ambiance to make your event unforgettable.
             </p>
 
             <p>
