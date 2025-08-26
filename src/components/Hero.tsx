@@ -25,7 +25,7 @@ const Hero = () => {
         <p className="text-lg md:text-2xl mb-6 max-w-xl mx-auto">
           Tasty, Hygienic & Delivered Fast!
         </p>
-        <Link href="/menu">
+        <Link href="/manu">
           <button className="bg-green-500 hover:bg-green-600 text-white font-semibold py-3 px-6 rounded-lg transition duration-300">
             Order Now
           </button>
